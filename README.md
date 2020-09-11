@@ -1,1 +1,2 @@
-Primeiro committ via comandos 
+Primeiro committ via comandos  
+Amigo fiz uma atualização para voce  
